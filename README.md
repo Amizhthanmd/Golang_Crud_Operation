@@ -8,12 +8,3 @@ Make sure you have the following installed before running this project:
 
 - Golang (1.16 or above): https://golang.org/dl/
 - PostgreSQL: https://www.postgresql.org/download/
-
-API Endpoints
-The following are the available API endpoints:
-
--- GET /getusers: Fetches all users.
--- GET /getusers/:id: Fetches a user by ID.
--- POST /createusers: Creates a new user.
--- PUT /updateusers/:id: Updates an existing user.
--- DELETE /deleteusers/:id: Deletes a user.
